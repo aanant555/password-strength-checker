@@ -248,9 +248,7 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Anant**
-- GitHub: [@anant11819](https://github.com/anant11819)
-- Portfolio: [anant11819.github.io/portfolio-website](https://anant11819.github.io/portfolio-website/)
-
+- GitHub: [@aanant555](https://github.com/aanant555)
 ---
 
 ## 👍 Acknowledgments
@@ -260,7 +258,3 @@ This project is open source and available under the MIT License.
 - Thanks to the open-source security community
 
 ---
-
-⭐ **If you find this tool helpful, please star this repository!** ⭐
-
-Stay secure! 🔐
